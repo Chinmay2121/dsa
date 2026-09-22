@@ -1,22 +1,18 @@
 #include<bits/stdc++.h>
-#include "templates/template.h"
-using namespace std;
 
+#include "../templates/template.h"
+
+using namespace std;
+#define ll long long
 void solve(){
     
 }
-int main(){
- 
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
 
- 
+int main() {
     int t = 1;
-    // int t;cin >> t;//Uncomment for multiple test cases
-
-    
+    cin >> t;
     while(t--){
-        solve();   
+        solve();
     }
     return 0;
 }
