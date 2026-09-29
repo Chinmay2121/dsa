@@ -2,3 +2,4 @@
 /input.txt
 /output.txt
 /practice.cpp
+/-std=c++11
